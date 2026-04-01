@@ -1,5 +1,8 @@
 ## Hi there 👋
 
+영남대학교 컴퓨터공학전공
+22511775 이준호
+
 <!--
 **junho-351125/junho-351125** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
