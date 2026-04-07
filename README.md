@@ -4,10 +4,12 @@ Yeungnam University computer engineering
 
 22511775 이준호(junho Lee)
 
+<contact> junho01125250@gmail.com
+
 <h2>Projects</h2> 
 Unreal engine based 2D shooter game
 
-...
+...(will be updated)
 
 
 <!--
