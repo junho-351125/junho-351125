@@ -1,6 +1,6 @@
 <h1>Profile</h1> 
 
-Yeungnam University computer engineer
+Yeungnam University computer engineering
 
 22511775 이준호(junho Lee)
 
