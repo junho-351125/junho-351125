@@ -1,10 +1,10 @@
 ## Profile 👋
 
-영남대학교 컴퓨터공학전공
+Yeungnam University computer engineer
 
-22511775 이준호
+22511775 이준호(junho Lee)
 
-<h4>Projects 4</h4> 
+<h3>Projects</h3> 
 Unreal engine based 2D shooter game
 ...
 
