@@ -11,8 +11,6 @@ Unreal engine based 2D shooter game
 
 ...(will be updated)
 
-Thanks
-
 <!--
 **junho-351125/junho-351125** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
